@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main() {
+int a=10;
+a++;
+a--;
+printf("after increment a value is:%d\n",a++);
+printf("After decrement a value is%d",a--);
+    return 0;
+}
